@@ -1,8 +1,8 @@
 import requests
 
-__ENDPOINT_URL__: str = "https://sonurousshop.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://sonushop.squareweb.app/api"
 
-class Xomboo:
+class Sonurous:
     def __init__(self, access_key) -> None:
         self.auth_token = None
         self.access_key = access_key
