@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from xomboo import Xomboo
+from sonurous import sonurous
 
 __CHANNEL_USERNAME__ = "SonuCPMToolshop"
 __GROUP_USERNAME__   = "SonuShop"
