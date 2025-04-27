@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from xomboo import Xomboo
 
-__CHANNEL_USERNAME__ = "SonuCPMToolshop
-__GROUP_USERNAME__   = "SonuShop
+__CHANNEL_USERNAME__ = "SonuCPMToolshop"
+__GROUP_USERNAME__   = "SonuShop"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
